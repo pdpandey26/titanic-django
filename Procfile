@@ -1,0 +1,1 @@
+web: gunicorn tita.wsgi
